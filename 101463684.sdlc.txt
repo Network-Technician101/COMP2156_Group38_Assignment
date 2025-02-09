@@ -1,2 +1,3 @@
 DevOps is crucial in the SDLC as it bridges the gap between development and operations teams. It emphasizes automation, continuous integration, and rapid delivery to improve collaboration and efficiency, leading to faster software development and delivery.
 DevOps enables companies to deliver new features and improvements to customers faster.
+development and operations teams worked in silos, leading to inefficiencies and misunderstandings. DevOps bridges this gap by fostering closer collaboration between these teams. 
