@@ -1,2 +1,3 @@
 The COMP 3104 DevOps course focuses on teaching students the practices and tools needed to automate software development and deployment processes. Key topics include continuous integration, continuous deployment, and version control.
 COMP 3104 is part of the curriculum for the Computer Programming and Analysis program.
+ Implementing systems to monitor applications and infrastructure, and analyzing logs for performance and troubleshooting
