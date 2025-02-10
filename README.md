@@ -13,4 +13,5 @@ This repository hosts the group assignment for COMP2156 DevOps course, focusing 
    ```bash
    git clone https://github.com/Network-Technician101/COMP2156_Group38_Assignment
 2. Switch to your branch using 'git checkout'
+   ```bash
    git checkout STUDENTID-Name
