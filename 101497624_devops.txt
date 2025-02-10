@@ -1,0 +1,2 @@
+Devops is fast growing concept in the field of Information Technology. It mainly deals with the sofware workflow cycle to make the process of building, testing, and launching software products more efficient.
+The course COMP2156 offered by George Brown College, covers the concepts of Devops, Gitbash, Github and application of the technology in reali-life secenerios. 
