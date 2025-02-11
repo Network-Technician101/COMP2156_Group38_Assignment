@@ -6,7 +6,11 @@ automated.
 
 The main tools that the course COMP2156 will teach you, will be how to use git and 
 github. These two tools are a big way to maximize efficiency when working on coding
-projects in groups. 
+projects in groups. This is combined with another software called github action, 
+which further helps you to automate some aspects of your project.  
 
 The course will also teach you how to implement continuous integration (CI) and 
-continuous deployment (CD), and also how to work with cloud infrastructure. 
+continuous deployment (CD), and also how to work with cloud infrastructure.
+
+And with learning about cloud infrastructure, you will also learn about databases. 
+And how to properly store databases on cloud infrastructure.  
