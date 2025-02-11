@@ -1,0 +1,12 @@
+The COMP2156 DevOps course is a necessary course, that teaches people how to properly
+work on code in groups, in a way that is not only collaborative, but also is very
+efficient. And that results in any kind of programming project being not only 
+completed quickly, but also fixing bugs and testing applications being quick and 
+automated. 
+
+The main tools that the course COMP2156 will teach you, will be how to use git and 
+github. These two tools are a big way to maximize efficiency when working on coding
+projects in groups. 
+
+The course will also teach you how to implement continuous integration (CI) and 
+continuous deployment (CD), and also how to work with cloud infrastructure. 
