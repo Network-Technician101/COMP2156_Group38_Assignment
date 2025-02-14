@@ -19,3 +19,4 @@ The assignment aims to explore key concepts in software development lifecycle an
 - Fernando Chalen (101478673) - GitHub: FernandoChalen
 This project follows best practices in Git branching and collaboration.
 This project follows best practices in Git branching and collaboration.
+Finalizing assignment details.
