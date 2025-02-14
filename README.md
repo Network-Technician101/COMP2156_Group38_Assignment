@@ -18,3 +18,4 @@ The assignment aims to explore key concepts in software development lifecycle an
    git checkout STUDENTID-Name
 - Fernando Chalen (101478673) - GitHub: FernandoChalen
 This project follows best practices in Git branching and collaboration.
+This project follows best practices in Git branching and collaboration.
