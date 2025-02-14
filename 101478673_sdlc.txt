@@ -1,1 +1,2 @@
 DevOps plays a crucial role in SDLC by bridging the gap between development and operations teams.
+DevOps reduces software development lifecycle time while ensuring reliability.
