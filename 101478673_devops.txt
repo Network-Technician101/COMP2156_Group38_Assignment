@@ -1,0 +1,1 @@
+COMP 3104 covers essential DevOps concepts such as CI/CD, automation, and containerization.

@@ -1,0 +1,5 @@
+# Ignore system & browser cache files
+AppData/
+*.log
+*.tmp
+NTUSER.*
