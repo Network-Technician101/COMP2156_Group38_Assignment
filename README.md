@@ -4,6 +4,8 @@
 - **Leader**: Mostafa Ahmed (101505625) - [GitHub](https://github.com/Network-Technician101)
 - **Member 2**: Abdulhakim Darman (101463684) - [GitHub](https://github.com/Hakim1010000)
 - **Member 3**: Shah Azwad Ahnaf (101497624) - [GitHub](https://github.com/shah0z)
+- **Member 4**: Fernando Chalen (101478673) - [GitHub](https://github.com/FernandoChalen)
+
 
 ## Project Description:
 This repository hosts the group assignment for COMP2156 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
