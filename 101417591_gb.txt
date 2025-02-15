@@ -1,1 +1,5 @@
 George Brown College is one of Toronto's most prestigious college.
+It has 3 Campuses.
+• Casa Loma Campus.
+• Waterfront Campus.
+• St. James Campus.
