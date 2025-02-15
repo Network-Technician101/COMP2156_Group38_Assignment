@@ -5,6 +5,7 @@
 - **Member 2**: Abdulhakim Darman (101463684) - [GitHub](https://github.com/Hakim1010000)
 - **Member 3**: Shah Azwad Ahnaf (101497624) - [GitHub](https://github.com/shah0z)
 - **Member 4**: Fernando Chalen (101478673) - [GitHub](https://github.com/FernandoChalen)
+- **Member 5**: Ateeb Ali (101417591) - [GitHub](https://github.com/BeetaBoi/COMP2156)
 
 
 ## Project Description:
