@@ -1,1 +1,3 @@
 This Course teaches students how to carry out roles of a System or Network Engineer with DevOps processes.
+
+Demonstrate strategies and skills of using suitable DevOps tools, Cloud database
