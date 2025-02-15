@@ -1,0 +1,17 @@
+COMP 3104 - DevOps is a course that focuses on the collaboration between software development and IT operations. 
+The course teaches students the principles of automation, continuous integration (CI), continuous deployment (CD), 
+and configuration management. 
+
+Key topics covered in this course include:
+- Introduction to DevOps principles and best practices.
+- Version control with Git and GitHub.
+- Continuous Integration (CI) and Continuous Deployment (CD) using GitHub Actions.
+- Infrastructure as Code (IaC) using Terraform and Ansible.
+- Cloud computing concepts and containerization with Docker and Kubernetes.
+- Monitoring and logging using tools like Prometheus and ELK Stack.
+
+This course helps students gain real-world DevOps skills to improve software deployment, reliability, and automation.
+
+Instructor: [Your Instructor’s Name]  
+College: George Brown College  
+Course Code: COMP 3104  
